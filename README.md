@@ -1,10 +1,10 @@
 # CRUD-React-MySQL-NodeJS
 This is Basic CRUD Project Using React, MySQL, NodeJS
 
-1) Setting your MySQL password.
+1. Setting your MySQL password.
 -> change server > index.js // pawword: "put your MySQL Password"
 
-2) If there's nothing data on the MySQL, Setting your MySQL.
+2. If there's nothing data on the MySQL, Setting your MySQL.
 (Error: ER_NOT_SUPPORTED_AUTH_MODE: Client does not support authentication protocol requested by server; consider upgrading MySQL client)
 
   2-1) Launch MySQL Installer
