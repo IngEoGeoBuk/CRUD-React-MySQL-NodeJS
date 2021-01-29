@@ -1,5 +1,6 @@
 # CRUD-React-MySQL-NodeJS
 This is Basic CRUD Project Using React, MySQL, NodeJS
+https://www.youtube.com/watch?v=re3OIOr9dJI&t=1s&ab_channel=PedroTech
 
 1. Setting your MySQL password.
 -> change server > index.js // pawword: "put your MySQL Password"
